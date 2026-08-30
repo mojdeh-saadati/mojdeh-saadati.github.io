@@ -1,27 +1,15 @@
-# Mojdeh Saadati — multi-page academic website
+# Mojdeh Saadati personal website
 
-This version follows the same multi-page navigation pattern as the reference site:
+Upload all files in this folder to the root of the `mojdeh-saadati.github.io` repository.
 
+## Important
+1. Upload `styles.css` together with the HTML files. The strange unformatted appearance occurs when the stylesheet is missing or not loading.
+2. Put your portrait at `assets/profile.jpg`.
+3. Put your PDF CV in the repository root and name it `Mojdeh_Saadati_CV.pdf`, or change the CV link in `index.html`.
+4. Keep your existing Google site-verification HTML file.
+
+Pages:
 - `index.html` — About
 - `publications.html` — Publications
 - `services.html` — Services
 - `teaching.html` — Teaching
-- `styles.css` — shared visual design
-
-## Upload to GitHub Pages
-Upload every file in this folder directly to the root of `mojdeh-saadati.github.io` and replace the old `index.html`.
-
-## Add your photo
-1. Put your headshot at `assets/profile.jpg`.
-2. In `index.html`, find the `photo-card` block and replace its placeholder content with:
-
-```html
-<div class="photo-card">
-  <img src="assets/profile.jpg" alt="Mojdeh Saadati">
-</div>
-```
-
-## Add your CV
-Put your PDF in the repository root and name it `Mojdeh_Saadati_CV.pdf`, or change the CV link in `index.html` to the name you prefer.
-
-## Important
