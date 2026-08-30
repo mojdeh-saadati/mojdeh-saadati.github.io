@@ -1,22 +1,22 @@
 {
   "name": "Mojdeh Saadati",
-  "title": "Ph.D. Candidate in Computer Science and Applied Mathematics",
+  "role": "Ph.D. Candidate in Computer Science and Applied Mathematics",
   "institution": "Iowa State University",
-  "website": "https://mojdeh-saadati.github.io/",
   "email": "msaadati@iastate.edu",
+  "website": "https://mojdeh-saadati.github.io/",
   "research_interests": [
-    "scientific machine learning",
-    "AI for scientific discovery",
-    "uncertainty quantification",
-    "out-of-distribution detection",
-    "reinforcement learning",
-    "causal inference",
-    "differentiable simulation",
-    "functional data analysis",
-    "AI for agriculture"
+    "Scientific Machine Learning",
+    "AI for Scientific Discovery",
+    "Uncertainty Quantification",
+    "Out-of-Distribution Detection",
+    "Reinforcement Learning",
+    "Differentiable Simulation",
+    "Causal Inference"
   ],
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/mojdeh-saadati",
-    "google_scholar": "https://scholar.google.com/citations?hl=en&user=IGMFHTgAAAAJ"
+  "pages": {
+    "about": "index.html",
+    "publications": "publications.html",
+    "services": "services.html",
+    "teaching": "teaching.html"
   }
 }

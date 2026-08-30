@@ -1,8 +1,8 @@
 [
-  {"title":"From Simulation to Discovery: AI Enabled Probabilistic Emulation of Mechanistic Crop Systems","status":"Under review"},
-  {"title":"Genomic and phenomic prediction for soybean seed yield, protein, and oil","venue":"The Plant Genome"},
-  {"title":"Out-of-distribution detection algorithms for robust insect classification","venue":"Plant Phenomics"},
-  {"title":"Deep learning powered real-time identification of insects using citizen science data","venue":"PNAS"},
-  {"title":"3D reconstruction of plants using probabilistic voxel carving","venue":"Computers and Electronics in Agriculture"},
-  {"title":"Adjustment criterion for recovering causal effects from missing data","venue":"ECML-PKDD"}
+ {"title":"From Simulation to Discovery: AI Enabled Probabilistic Emulation of Mechanistic Crop Systems","status":"Under review"},
+ {"title":"Genomic and phenomic prediction for soybean seed yield, protein, and oil","venue":"The Plant Genome"},
+ {"title":"Out-of-distribution detection algorithms for robust insect classification","venue":"Plant Phenomics"},
+ {"title":"Deep learning powered real-time identification of insects using citizen science data","venue":"PNAS"},
+ {"title":"3D reconstruction of plants using probabilistic voxel carving","venue":"Computers and Electronics in Agriculture"},
+ {"title":"Adjustment criterion for recovering causal effects from missing data","venue":"ECML-PKDD"}
 ]
