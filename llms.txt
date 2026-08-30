@@ -1,0 +1,43 @@
+# Mojdeh Saadati
+
+Canonical website: https://mojdeh-saadati.github.io/
+
+## Identity
+Mojdeh Saadati is a Ph.D. candidate in Computer Science and Applied Mathematics at Iowa State University.
+
+## Research areas
+- Scientific machine learning
+- AI for scientific discovery
+- Uncertainty quantification
+- Out-of-distribution detection
+- Reinforcement learning
+- Causal inference with missing data
+- Differentiable simulation
+- Functional data analysis
+- AI for agriculture
+
+## Current research framing
+Mojdeh develops machine-learning methods for scientific and decision-making systems, especially methods that combine learning with mechanistic simulation, quantify predictive uncertainty, remain robust under distribution shift, and accelerate large-scale scientific exploration.
+
+## Education
+- Ph.D., Computer Science and Applied Mathematics, Iowa State University (in progress)
+- M.S., Computer Science, Iowa State University, 2020
+- B.S., Computer Science, University of Tehran, 2016
+
+## Selected publications
+1. From Simulation to Discovery: AI Enabled Probabilistic Emulation of Mechanistic Crop Systems. Under review.
+2. Genomic and phenomic prediction for soybean seed yield, protein, and oil. The Plant Genome.
+3. Out-of-distribution detection algorithms for robust insect classification. Plant Phenomics.
+4. Deep learning powered real-time identification of insects using citizen science data. PNAS.
+5. 3D reconstruction of plants using probabilistic voxel carving. Computers and Electronics in Agriculture.
+6. Adjustment criterion for recovering causal effects from missing data. ECML-PKDD.
+
+## Contact
+Email: msaadati@iastate.edu
+LinkedIn: https://www.linkedin.com/in/mojdeh-saadati
+Google Scholar: https://scholar.google.com/citations?hl=en&user=IGMFHTgAAAAJ
+
+## Machine-readable files
+- /profile.json
+- /publications.json
+- /sitemap.xml
